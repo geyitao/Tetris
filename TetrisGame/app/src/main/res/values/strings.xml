@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">俄罗斯方块</string>
+    <string name="start_game">开始游戏</string>
+    <string name="settings">设置</string>
+    <string name="high_score">最高分: %1$d</string>
+    <string name="score">分数: %1$d</string>
+    <string name="level">等级: %1$d</string>
+    <string name="lines">行数: %1$d</string>
+    <string name="next_block">下一个</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+    <string name="restart">重新开始</string>
+    <string name="game_over">游戏结束</string>
+    <string name="play_again">再玩一次</string>
+    <string name="exit">退出</string>
+    <string name="sound">音效</string>
+    <string name="difficulty">难度</string>
+    <string name="easy">简单</string>
+    <string name="normal">普通</string>
+    <string name="hard">困难</string>
+</resources>
